@@ -106,3 +106,15 @@ Node.jsのバージョン確認
 ```
 npm -version
 ```
+
+```
+npm install vue-router@4
+```
+
+```
+npm install axios
+```
+
+```
+npm run serve
+```
